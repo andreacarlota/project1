@@ -2,7 +2,7 @@
   Box-sizing: border-box; }
 
 body { 
- max-width: 720px;
+ max-width: 768px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -20,4 +20,15 @@ p,
 ul {
   font-family: "Roboto", sans-serif;
 }
-@
+
+ul{
+  list-style:none;
+  text-align: center;
+}
+li{
+  display: inline-block;
+  margin-left: 15px;
+}
+.experience {
+  background-color: yellow;
+}@
