@@ -1,5 +1,13 @@
-body {
-   font-family: 'Work Sans', sans-serif;
+h1,
+h2,
+h3,
+h4,
+a {
+  font-family: "Work Sans", sans-serif;
+}
 
-  
-} @
+p,
+ul {
+  font-family: "Roboto", sans-serif;
+}
+@
