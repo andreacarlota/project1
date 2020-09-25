@@ -15,27 +15,34 @@ h4,
 a {
   font-family: "Work Sans", sans-serif;
 }
-h2, {
-  width: 10%;
+h2{
+ background-color:blue;
+  width:35%;
 }
 
+h3{
+  width:20%
+    display: inline-block;
+  
+}
+p {
+  width: 75%;
+   display: inline-block;
+  
+}
 
 p,
 ul {
   font-family: "Roboto", sans-serif;
-
 }
 
-}
 ul{
     list-style:none;
 }
 .contact-info{
-  list-style:none;
+  list-style: none;
   text-align: center;
   display: inline-block;
   margin-left: 15px;
 }
-.experience {
-  background-color: blue;
-}
+
