@@ -55,6 +55,9 @@ ul {
 
 }
 
+footer {
+  text-align: center;
+}
 ul{
     list-style:none;
 }
@@ -65,17 +68,9 @@ ul{
   margin-left: 15px;
 }
 
-.div-expo {
-    display: inline-block;
-width: 50%;
-}
-.expo-name {
-  display: inline-block;
-  margin-left: auto;
-}
-
 .detailed-info{
       display: inline-block;
   vertical-align: top;
+  text-align:left;
 
 }
