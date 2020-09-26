@@ -31,15 +31,21 @@ h4,
 a {
   font-family: "Work Sans", sans-serif;
 }
-h2{
- background-color:blue;
-  width:35%;
+h3{
+width:45%;
+  margin-left: 20px;
+}
+div {
+  width:50%;
+border-left: 2px solid pink;
+  padding-left: 10px;
 }
 
-p,h3{
+div,h3{
+    display: inline-block;
   margin-top: 7px;
   margin-bottom: 7px;
-  
+  vertical-align: top;
 }
 
 p,
