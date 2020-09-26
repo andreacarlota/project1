@@ -51,6 +51,8 @@ div,h3{
 p,
 ul {
   font-family: "Roboto", sans-serif;
+      display: inline-block;
+
 }
 
 ul{
@@ -63,3 +65,8 @@ ul{
   margin-left: 15px;
 }
 
+.detailed-info{
+      display: inline-block;
+  vertical-align: top;
+
+}
